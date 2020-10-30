@@ -1,5 +1,5 @@
 ### Hola, Soy Esteban :rocket: :coffee: 👋
-![GIF Image](https://i.pinimg.com/originals/c0/45/ad/c045ad4c02705c03302bbc843bb5a0ee.gif)
+![GIF Image](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
 # Esteban Florido Vega
 > Ingeniero Electrónico, Desarrollador Android & Diseñador de Hardware.
