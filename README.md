@@ -1,7 +1,7 @@
 ### Hi, I'm Esteban :rocket: :coffee: 👋
 
 # Esteban Florido
-### > Electronic Engineer, Android Developer & Hardware Designer.
+> Electronic Engineer, Android Developer & Hardware Designer.
 
 
 <!--
