@@ -1,4 +1,4 @@
-Format: !![Alt Text](https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif)
+Format: !![](https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif)
 
 ### Hola, Soy Esteban :rocket: :coffee: 👋
 
