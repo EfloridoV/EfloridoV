@@ -1,4 +1,4 @@
-Format: !![](https://i.pinimg.com/564x/63/64/63/63646347a757ec20623d49beacb8dca2.jpg)
+Format: ![GIF Image](https://i.pinimg.com/originals/c0/45/ad/c045ad4c02705c03302bbc843bb5a0ee.gif)
 
 ### Hola, Soy Esteban :rocket: :coffee: 👋
 
