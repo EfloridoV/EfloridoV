@@ -3,6 +3,8 @@
 # Esteban Florido
 > Electronic Engineer, Android Developer & Hardware Designer.
 
+Hola, soy Ingeniero Electrónico colombiano apasionado por la tecnología y el desarrollo de software y hardware. Mi objetivo se centra en desarrollar habilidades en el diseño e integración de componentes hardware especifico a software a la medida, principalmente en dispositivos móviles. Actualmente estoy empezando en el campo del desarrollo en la plataforma Android, Aunque en este momento soy Junior mejoro mis habilidades cada día y espero pronto Manejar lenguajes como Swift, Flutter, y otras más del ambiente web como:  Angular & Vue Js.
+
 
 <!--
 **EfloridoV/EfloridoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
