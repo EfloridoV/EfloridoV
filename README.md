@@ -1,4 +1,4 @@
-### Hi, I'm Esteban there :rocket: 👋
+### Hi, I'm Esteban :rocket:👋
 
 <!--
 **EfloridoV/EfloridoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
