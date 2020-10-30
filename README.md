@@ -1,7 +1,7 @@
-### Hi, I'm Esteban :rocket: :coffee: 👋
+### Hola, Soy Esteban :rocket: :coffee: 👋
 
 # Esteban Florido
-> Electronic Engineer, Android Developer & Hardware Designer.
+> Ingeniero Electrónico, Desarrollador Android & Diseñador de Hardware.
 
 Hola, soy Ingeniero Electrónico colombiano apasionado por la tecnología y el desarrollo de software y hardware. Mi objetivo se centra en desarrollar habilidades en el diseño e integración de componentes hardware especifico a software a la medida, principalmente en dispositivos móviles. Actualmente estoy empezando en el campo del desarrollo en la plataforma Android, Aunque en este momento soy Junior mejoro mis habilidades cada día y espero pronto Manejar lenguajes como Swift, Flutter, y otras más del ambiente web como:  Angular & Vue Js.
 
